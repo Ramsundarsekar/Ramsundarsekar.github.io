@@ -1,7 +1,7 @@
-title: Ram's Networking Blog
-description: Networking | Cloud | Security
-theme: Clean Blog
+title: "Ram's Networking Blog"
+description: "Networking | Cloud | Security"
+url: "https://ramsundarsekar.github.io"
 
-url: https://ramsundarsekar.github.io
-
-nav_sort: case_sensitive
+remote_theme: startbootstrap/clean-blog-jekyll
+plugins:
+  - jekyll-remote-theme
